@@ -1,0 +1,3 @@
+﻿  funcs.c
+D:\Programming\csharp\PyramidalSort\PyramidalSort\funcs.c(4,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PyramidalSort.vcxproj -> D:\Programming\csharp\PyramidalSort\x64\Debug\PyramidalSort.exe
